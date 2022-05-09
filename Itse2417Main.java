@@ -53,7 +53,7 @@ public class Itse2417Main
             new FinalProj(),          // Hankins
             new FinalProj(),          // Hernandez
             new FinalProj(),          // Kline
-            new FinalProj(),          // Koranda
+            new Koranda(),          // Koranda
             new FinalProj(),          // Pokluda
             new FinalProj(),          // Rascon
             new FinalProj(),          // Rodriguez
@@ -156,3 +156,4 @@ public class Itse2417Main
         return input;
     }
 }
+
